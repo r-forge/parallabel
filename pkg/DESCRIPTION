@@ -1,9 +1,0 @@
-Package: ParallABEL
-Title: Parallel of Genome-Wide Association function
-Version: 0.1-0
-Author: Unitsa Sangket
-Description: Support for parallel GenABEL package in R.
-Maintainer: Unitsa Sangket <usangket@yahoo.com>
-License: GPL
-Depends: R (>= 2.8), utils
-Packaged:  August  3 09:09:09 2009
